@@ -5,7 +5,7 @@ npm run dev
 ```
 
 
-Command to run the API od the json server:
+Command to run the API of the json server:
 
 ```bash
 npm run dev:server
