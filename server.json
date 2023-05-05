@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Alguma coisa",
+      "type": "income",
+      "category": "Venda",
+      "price": 123.33,
+      "createdAt": "2023-04-28T17:40:28.767Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 70,
+      "createdAt": "2023-04-28T17:40:28.767Z"
+    },
+    {
+      "description": "Desenvolvimento",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-05-02T17:17:14.597Z",
+      "id": 3
+    },
+    {
+      "description": "Comida",
+      "category": "Comida",
+      "price": 100,
+      "type": "outcome",
+      "createdAt": "2023-05-02T17:17:34.704Z",
+      "id": 4
+    },
+    {
+      "description": "Alguma coisa outra coisa",
+      "category": "Venda",
+      "price": 100,
+      "type": "income",
+      "createdAt": "2023-05-02T17:31:16.299Z",
+      "id": 5
+    },
+    {
+      "description": "outra coisa com alguma otura coisa",
+      "category": "Comida",
+      "price": 46.34,
+      "type": "outcome",
+      "createdAt": "2023-05-02T17:31:51.174Z",
+      "id": 6
+    },
+    {
+      "description": "Desenvolvimento",
+      "category": "Venda",
+      "price": 11,
+      "type": "income",
+      "createdAt": "2023-05-02T19:56:22.406Z",
+      "id": 7
+    }
+  ]
+}
